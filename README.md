@@ -1,5 +1,5 @@
 # Power_corrected_model
-#his Repository contains Python code used for the implementation of "Power-Law correction to a continuum-fitting emission model" by L.E. Jew.
+This Repository contains Python code used for the implementation of "Power-Law correction to a continuum-fitting emission model" by L.E. Jew.
 
 The curve_modelling folder contains two files:
 
