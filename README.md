@@ -1,5 +1,5 @@
 # Power_corrected_model
-This Repository contains Python code used for the implementation of "Power-Law correction to a continuum-fitting emission model for Black Hole X-ray Binaries" by L.E. Jew.
+This Repository contains Python code used for the implementation of "Power-Law correction to a continuum-fitting emission model for Black Hole X-ray Binaries" by L. Jew.
 
 The repository contains the following files:
 
